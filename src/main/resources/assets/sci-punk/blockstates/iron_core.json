@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "notipas_alchemy:block/iron_core" },
+    "facing=east": { "model": "notipas_alchemy:block/iron_core", "y": 90 },
+    "facing=south": { "model": "notipas_alchemy:block/iron_core", "y": 180 },
+    "facing=west": { "model": "notipas_alchemy:block/iron_core", "y": 270 }
+  }
+}

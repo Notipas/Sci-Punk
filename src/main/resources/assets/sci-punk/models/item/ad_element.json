@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "notipas_alchemy:item/ad_element"
+  }
+}
