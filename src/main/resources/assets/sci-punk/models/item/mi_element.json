@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "notipas_alchemy:item/mi_element"
+    "layer0": "sci-punk:item/mi_element"
   }
 }

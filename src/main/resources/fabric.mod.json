@@ -16,10 +16,10 @@
   "environment": "*",
   "entrypoints": {
     "client": [
-      "com.notipas.scipunk.client.Sci_PunkClient"
+      "com.notipas.scipunk.client.SciPunkClient"
     ],
     "main": [
-      "com.notipas.scipunk.Sci_Punk"
+      "com.notipas.scipunk.SciPunk"
     ]
   },
   "mixins": [
